@@ -1,0 +1,2 @@
+{"project": "Visual Comm Dimensioner","structure": [{"path": "/src","files": [{"name": "index.js","content": "console.log('Hello, World!');","metadata": {"created_at": "2026-03-25 23:38:34","updated_at": "2026-03-25 23:38:34"}}]},{"path": "/assets","files": [{"name": "logo.png","content": "[Binary Content]
+","metadata": {"created_at": "2026-03-25 23:38:34","updated_at": "2026-03-25 23:38:34"}}]}]}
